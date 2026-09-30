@@ -1,4 +1,4 @@
-# Hola, Soy Carlos 👋
+# Hola, Soy Carlos 💻
 Estudiante de Ingeniería en Tecnología de Software (FIME-UANL) 
 
 ## Sobre mí
