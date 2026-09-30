@@ -1,9 +1,9 @@
-# Hola, soy Carlos 👋
-Estudiante de Ingeniería en Tecnología de Software (FIME-UANL) · Desarrollo web y apps Android
+# Hola, Soy Carlos 👋
+Estudiante de Ingeniería en Tecnología de Software (FIME-UANL) 
 
 ## Sobre mí
 - Desarrollo sitios web para clientes con HTML, CSS y JS
-- Aprendiendo Kotlin, visión artificial y ciberseguridad
+- Aprendiendo Kotlin, Visión Computacional, SQL
 
 ## Stack
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
